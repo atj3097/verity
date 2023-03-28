@@ -1,21 +1,14 @@
 # Verity
 
-Introducing **Verity**: a decentralized, blockchain-based platform designed to authenticate and validate digital content, specifically targeting videos and their creators. As AI-generated content continues to advance and saturate the internet, Verity aims to build trust and preserve the originality of content through a combination of cutting-edge technologies.
+A decentralized, blockchain-based platform designed to authenticate and validate digital content, specifically targeting videos and their creators. As AI-generated content continues to advance and saturate the internet, Verity aims to build trust and preserve the originality of content through a combination of cutting-edge technologies.
 
 By leveraging the power of the Theta Network, Verity establishes a "proof of creation" system for video content, ensuring the authenticity and credibility of the videos shared on the platform. With a Chrome extension, a dedicated video sharing platform, and a robust identity management system, Verity caters to content creators, news sources, governments, and activists who demand accurate and reliable information.
 
 Verity's advanced authentication process incorporates AI-generated content detection to identify and prevent the spread of fake content. Additionally, utilizing zk-proofs for pseudonymous accounts, Verity strikes a balance between privacy and accountability.
 
-Join Verity today and help us shape a future where trust and transparency in digital content are paramount. Together, we can foster a more honest and secure online experience for all.
-
 # Verity System Outline
 
-## I. Introduction
-   - Purpose: Authenticate and validate digital content
-   - Target audience: Content creators, news sources, governments, and activists
-   - Focus: Videos and their creators
-
-## II. Core Components
+## I. Core Components
 ### A. Theta Network Integration
    1. "Proof of creation" system
    2. Smart contracts for identity management and content authentication
