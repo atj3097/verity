@@ -52,6 +52,7 @@ Verity's advanced authentication process incorporates AI-generated content detec
 ## Phase 3: Frontend web application development
 - Create the user interface for uploading and viewing authenticated videos
 - Integrate identity management and content authentication with the frontend web application
+- Shareable video links from the platform
 
 ## Phase 4: Chrome extension development
 - Develop the Chrome extension to connect to social media platforms
@@ -64,8 +65,4 @@ Verity's advanced authentication process incorporates AI-generated content detec
 ## Phase 6: Testing and deployment
 - Test all components thoroughly
 - Deploy the smart contracts, web application, Chrome extension, and mobile app
-
-## Phase 7: Community building and marketing
-- Reach out to target audience and potential users
-- Promote the platform to content creators, news sources, governments, and activists
 
