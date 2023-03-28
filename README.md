@@ -1,5 +1,5 @@
 # Verity
-![](Screenshot 2023-03-28 at 6.42.07 PM.png)
+<img src="ai_on_phone.png" alt="My Image Description" width="400" height="400">
 
 A decentralized, blockchain-based platform designed to authenticate and validate digital content, specifically targeting videos and their creators. As AI-generated content continues to advance and saturate the internet, Verity aims to build trust and preserve the originality of content through a combination of cutting-edge technologies.
 
