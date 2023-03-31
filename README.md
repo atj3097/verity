@@ -18,6 +18,8 @@ Verity's advanced authentication process incorporates AI-generated content detec
    1. AI Gen Check
    2. Date/Location checker
    3. Violence/Nudity 
+   4. Hashtag for the video
+   5. Keep track of which verity algorithm version that validated the video
 
 ### C. Frontend Web Application
    1. User interface for uploading and viewing authenticated videos
