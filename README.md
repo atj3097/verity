@@ -14,9 +14,10 @@ Verity's advanced authentication process incorporates AI-generated content detec
    1. "Proof of creation" system
    2. Smart contracts for identity management and content authentication
 
-### B. AI-generated Content Detection
-   1. Off-chain AI check
-   2. Integration with smart contracts
+### B. Video Verification
+   1. AI Gen Check
+   2. Date/Location checker
+   3. Violence/Nudity 
 
 ### C. Frontend Web Application
    1. User interface for uploading and viewing authenticated videos
