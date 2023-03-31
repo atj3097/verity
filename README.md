@@ -23,19 +23,15 @@ Verity's advanced authentication process incorporates AI-generated content detec
    2. Integration with identity management system
    3. Connection to Theta Network for content authentication
 
-### D. Chrome Extension
-   1. Connects to social media platforms
-   2. Verifies video authenticity
-
-### E. Identity Management System
+### D. Identity Management System
    1. Zk-proofs for pseudonymous accounts
    2. Balancing privacy and accountability
 
-### F. Smart Contract and Oracle Component
+### E. Smart Contract and Oracle Component
    1. AI-generated content detection
    2. Content authentication and identity management
 
-### G. Mobile App
+### F. Mobile App
    1. Video upload and validation
    2. Integration with social media platforms
    
