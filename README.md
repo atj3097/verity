@@ -37,6 +37,7 @@ Verity's advanced authentication process incorporates AI-generated content detec
 ### F. Mobile App
    1. Video upload and validation
    2. Integration with social media platforms
+   3. Attribution - knowing who recorded the particular video
    
 # Verity Project Phases
 
