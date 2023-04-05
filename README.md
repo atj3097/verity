@@ -55,15 +55,34 @@ Verity's advanced authentication process incorporates AI-generated content detec
 - Integrate identity management and content authentication with the frontend web application
 - Shareable video links from the platform
 
-## Phase 4: Chrome extension development
-- Develop the Chrome extension to connect to social media platforms
-- Implement video authenticity verification in the extension
-
-## Phase 5: Mobile app development
+## Phase 4: Mobile app development
 - Design and develop a mobile app for uploading and viewing authenticated videos
 - Integrate the app with social media platforms
 
-## Phase 6: Testing and deployment
+## Phase 5: Testing and deployment
 - Test all components thoroughly
 - Deploy the smart contracts, web application, Chrome extension, and mobile app
+
+## System Architecture
+                             +-------------+
+                             |    Verity   |
+                             |  Frontend   |
+                             +------+------+              
+                                   ||                         
+     +----------------+            ||            +--------------------+
+     |  Content       |            ||            | Deepfake Detection |
+     |  Creators      |<-----------++----------->| & Verification     |
+     +----------------+    Upload/View Videos    +--------------------+
+                                   ||                         
+                             +------+------+              
+                             |    Verity   |
+                             |  Backend    |
+                             +------+------+              
+                 +-----------+|       |+------------+
+                 |              |       |                |
++---------------------+  +----------------+  +-------------------+
+| Theta Blockchain    |  | Video Metadata |  | Encrypted Storage |
+| (Smart Contracts)   |  | Database       |  | (Video Files)     |
++---------------------+  +----------------+  +-------------------+
+
 
