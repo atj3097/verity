@@ -11,8 +11,7 @@ Verity's advanced authentication process incorporates AI-generated content detec
 
 ## I. Core Components
 ### A. Theta Network Integration
-   1. "Proof of creation" system
-   2. Smart contracts for identity management and content authentication
+   1. Smart contracts for identity management and content authentication
 
 ### B. Video Verification
    1. AI Gen Check
@@ -23,18 +22,13 @@ Verity's advanced authentication process incorporates AI-generated content detec
 
 ### C. Frontend Web Application
    1. User interface for uploading and viewing authenticated videos
-   2. Integration with identity management system
-   3. Connection to Theta Network for content authentication
-
-### D. Identity Management System
-   1. Zk-proofs for pseudonymous accounts
-   2. Balancing privacy and accountability
-
-### E. Smart Contract and Oracle Component
+   2. Integration with Theta Wallet connection
+   
+### D. Smart Contract and Oracle Component
    1. AI-generated content detection
    2. Content authentication and identity management
 
-### F. Mobile App
+### E. Mobile App/Frontend
    1. Video upload and validation
    2. Integration with social media platforms
    3. Attribution - knowing who recorded the particular video
@@ -62,27 +56,5 @@ Verity's advanced authentication process incorporates AI-generated content detec
 ## Phase 5: Testing and deployment
 - Test all components thoroughly
 - Deploy the smart contracts, web application, Chrome extension, and mobile app
-
-## System Architecture
-                             +-------------+
-                             |    Verity   |
-                             |  Frontend   |
-                             +------+------+              
-                                   ||                         
-     +----------------+            ||            +--------------------+
-     |  Content       |            ||            | Deepfake Detection |
-     |  Creators      |<-----------++----------->| & Verification     |
-     +----------------+    Upload/View Videos    +--------------------+
-                                   ||                         
-                             +------+------+              
-                             |    Verity   |
-                             |  Backend    |
-                             +------+------+              
-                 +-----------+|       |+------------+
-                 |              |       |                |
-+---------------------+  +----------------+  +-------------------+
-| Theta Blockchain    |  | Video Metadata |  | Encrypted Storage |
-| (Smart Contracts)   |  | Database       |  | (Video Files)     |
-+---------------------+  +----------------+  +-------------------+
 
 
